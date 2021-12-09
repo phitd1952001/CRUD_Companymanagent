@@ -1,0 +1,16 @@
+C:\Users\Dell\RiderProjects\companymanagent\companymanagent\bin\Debug\net5.0\companymanagent.exe
+C:\Users\Dell\RiderProjects\companymanagent\companymanagent\bin\Debug\net5.0\companymanagent.deps.json
+C:\Users\Dell\RiderProjects\companymanagent\companymanagent\bin\Debug\net5.0\companymanagent.runtimeconfig.json
+C:\Users\Dell\RiderProjects\companymanagent\companymanagent\bin\Debug\net5.0\companymanagent.runtimeconfig.dev.json
+C:\Users\Dell\RiderProjects\companymanagent\companymanagent\bin\Debug\net5.0\companymanagent.dll
+C:\Users\Dell\RiderProjects\companymanagent\companymanagent\bin\Debug\net5.0\ref\companymanagent.dll
+C:\Users\Dell\RiderProjects\companymanagent\companymanagent\bin\Debug\net5.0\companymanagent.pdb
+C:\Users\Dell\RiderProjects\companymanagent\companymanagent\obj\Debug\net5.0\companymanagent.csproj.AssemblyReference.cache
+C:\Users\Dell\RiderProjects\companymanagent\companymanagent\obj\Debug\net5.0\companymanagent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\RiderProjects\companymanagent\companymanagent\obj\Debug\net5.0\companymanagent.AssemblyInfoInputs.cache
+C:\Users\Dell\RiderProjects\companymanagent\companymanagent\obj\Debug\net5.0\companymanagent.AssemblyInfo.cs
+C:\Users\Dell\RiderProjects\companymanagent\companymanagent\obj\Debug\net5.0\companymanagent.csproj.CoreCompileInputs.cache
+C:\Users\Dell\RiderProjects\companymanagent\companymanagent\obj\Debug\net5.0\companymanagent.dll
+C:\Users\Dell\RiderProjects\companymanagent\companymanagent\obj\Debug\net5.0\ref\companymanagent.dll
+C:\Users\Dell\RiderProjects\companymanagent\companymanagent\obj\Debug\net5.0\companymanagent.pdb
+C:\Users\Dell\RiderProjects\companymanagent\companymanagent\obj\Debug\net5.0\companymanagent.genruntimeconfig.cache
